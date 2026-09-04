@@ -1,6 +1,7 @@
 ---
 title: "Genetic association of vitamin D receptor variants and 25-hydroxyvitamin D levels with breast cancer risk and triple-negative phenotype in Bangladesh"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-vdr-breast-cancer
 excerpt: 'A genetic association study examining vitamin D receptor variants and serum 25-hydroxyvitamin D levels in relation to breast cancer risk and the triple-negative phenotype in a Bangladeshi cohort.'
 date: 2026-01-01
