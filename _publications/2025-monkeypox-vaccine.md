@@ -1,6 +1,7 @@
 ---
 title: "A robust comprehensive immunoinformatics approach for designing a potential multi-epitope based vaccine against a reiterated monkeypox virus"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-monkeypox-vaccine
 excerpt: 'An immunoinformatics-based multi-epitope vaccine design targeting the monkeypox virus, combining epitope prediction, structural modeling, and molecular docking.'
 date: 2025-01-01
