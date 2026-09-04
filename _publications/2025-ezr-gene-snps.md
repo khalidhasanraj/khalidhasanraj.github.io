@@ -1,6 +1,7 @@
 ---
 title: "Comprehensive in silico characterization of nonsynonymous SNPs in the human ezrin (EZR) gene and their role in disease pathogenesis"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-ezr-gene-snps
 excerpt: 'A computational analysis of nonsynonymous SNPs in the human EZR gene, assessing their structural and functional impact on disease pathogenesis.'
 date: 2025-01-01
