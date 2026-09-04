@@ -1,6 +1,7 @@
 ---
 title: "Harnessing E. coli for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-dengue-vaccine-ecoli
 excerpt: 'M.S. thesis work designing an immunoinformatics-based multi-epitope dengue vaccine and producing it via recombinant expression in E. coli.'
 date: 2025-06-01
