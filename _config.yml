@@ -28,11 +28,11 @@ author:
   bio              : "Lecturer in Biochemistry and Molecular Biology, University of Dhaka | Translational Medicine and Vaccine Research Enthusiast"
   location         : "Dhaka, Bangladesh"
   employer         : "University of Dhaka"
-  uri              : # URL
+  uri              : "https://www.du.ac.bd/body/faculty_details/BCH/85647"
   email            : "khalid.raj@du.ac.bd"
 
   # Academic websites
-  academia         : "https://www.du.ac.bd/body/faculty_details/BCH/85647"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=XPtVEkQAAAAJ&hl=en"
   inspire-hep      : # URL
