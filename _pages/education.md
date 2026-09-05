@@ -79,7 +79,7 @@ Laboratory Training & Research Skills
 
 M.S. in Biochemistry and Molecular Biology
 ======
-University of Dhaka
+University of Dhaka | 2022-2023 Session | 30 Credits
 
 Molecular Biology & Bioinformatics
 ------
