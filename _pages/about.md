@@ -3,7 +3,7 @@ permalink: /
 title: "Khalid Hasan Raj"
 author_profile: true
 header:
-  image: "/images/dna_banner.png"
+  image: "images/dna_banner.png"
   image_description: "DNA banner"
 redirect_from: 
   - /about/
