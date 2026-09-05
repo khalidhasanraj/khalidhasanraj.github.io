@@ -48,10 +48,10 @@ As a Lecturer, I teach Biochemistry, Bioinformatics, Molecular Biology, and Nutr
 
 Awards and Fellowships
 ======
-🏅 **National Science and Technology (NST) Fellowship** - 2024
-🏅 **Provost Award** - 2023, Amar Ekushey Hall, University of Dhaka
-🏅 **Provost Award** - 2022, Amar Ekushey Hall, University of Dhaka
-🏅 **Dean's Award** - 2022, Faculty of Biological Sciences, University of Dhaka
+🏅 **National Science and Technology (NST) Fellowship** - 2024<br>
+🏅 **Provost Award** - 2023, Amar Ekushey Hall, University of Dhaka<br>
+🏅 **Provost Award** - 2022, Amar Ekushey Hall, University of Dhaka<br>
+🏅 **Dean's Award** - 2022, Faculty of Biological Sciences, University of Dhaka<br>
 🏅 **Dhaka University Honors Scholarship** - 2022
 
 ---
