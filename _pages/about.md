@@ -15,7 +15,6 @@ I am a Lecturer in the Department of Biochemistry and Molecular Biology at the U
 <div class="quick-links" markdown="1">
 [Download CV]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}
 [Google Scholar](https://scholar.google.com/citations?user=XPtVEkQAAAAJ&hl=en){: .btn .btn--inverse}
-[Publications]({{ base_path }}/publications/){: .btn .btn--inverse}
 </div>
 
 ---
