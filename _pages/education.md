@@ -101,6 +101,6 @@ Biotechnology Management
 
 Thesis & Research Training
 ------
-* Thesis (Group B) — "Harnessing _E. coli_ for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus," supervised by Professor A.H.M. Nurun Nabi
+* Thesis (Group B): "Harnessing _E. coli_ for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus," supervised by Professor Dr. A.H.M. Nurun Nabi
 * Seminar / Paper Presentation
 * Viva-voce
