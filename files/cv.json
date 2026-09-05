@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "Khalid Hasan Raj",
+    "label": "Lecturer, Biochemistry and Molecular Biology, University of Dhaka",
+    "email": "khalid.raj@du.ac.bd",
+    "phone": "+8801930718906",
+    "website": "https://khalidhasanraj.github.io",
+    "summary": "Lecturer in Biochemistry and Molecular Biology at the University of Dhaka, researching vaccine development, translational medicine, and the genetics of non-communicable diseases.",
+    "location": {
+      "city": "Dhaka",
+      "countryCode": "BD"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "Khalid Hasan Raj",
+        "url": "https://scholar.google.com/citations?user=XPtVEkQAAAAJ&hl=en"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Khalid-Raj-2",
+        "url": "https://www.researchgate.net/profile/Khalid-Raj-2"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0005-5061-9279",
+        "url": "https://orcid.org/0009-0005-5061-9279"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "khalid-hasan-raj",
+        "url": "https://www.linkedin.com/in/khalid-hasan-raj-ab5265184"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "University of Dhaka",
+      "position": "Lecturer",
+      "startDate": "2026-05-01",
+      "summary": "Department of Biochemistry and Molecular Biology.",
+      "highlights": [
+        "Conducting undergraduate and graduate courses in Biochemistry, Bioinformatics, Molecular Biology, and Nutrition",
+        "Preparing examination questions and evaluating answer scripts",
+        "Supervising and mentoring undergraduate students in research projects"
+      ]
+    },
+    {
+      "name": "University of Dhaka",
+      "position": "Researcher",
+      "startDate": "2026-05-01",
+      "summary": "Department of Biochemistry and Molecular Biology.",
+      "highlights": [
+        "Multi-omics bioinformatics projects developing risk models for stomach and bladder cancer",
+        "Genetic association studies of non-communicable diseases",
+        "Developing research proposals and grant applications"
+      ]
+    },
+    {
+      "name": "icddr,b",
+      "position": "Research Fellow",
+      "startDate": "2025-10-01",
+      "endDate": "2026-05-01",
+      "summary": "International Centre for Diarrhoeal Disease Research, Bangladesh.",
+      "highlights": [
+        "Mammalian cell and virus culture under biosafety-compliant conditions",
+        "Immunological and virological assays",
+        "Biosimilar potency testing and clinical trial support for viral vaccines",
+        "Antiviral drug discovery projects"
+      ]
+    },
+    {
+      "name": "icddr,b",
+      "position": "Senior Research Assistant",
+      "startDate": "2025-06-01",
+      "endDate": "2025-09-01",
+      "summary": "International Centre for Diarrhoeal Disease Research, Bangladesh.",
+      "highlights": [
+        "Maintained mammalian cell lines and assisted in virus culture experiments",
+        "Supported laboratory operations, data collection, and experimental optimization",
+        "Trained junior researchers and interns in laboratory techniques and safety practices"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Dhaka",
+      "area": "Biochemistry and Molecular Biology",
+      "studyType": "M.S.",
+      "startDate": "2023-09-01",
+      "endDate": "2025-06-01",
+      "gpa": "4.00/4.00, Rank 1/60",
+      "summary": "Thesis: Harnessing E. coli for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus. Supervisor: Professor A.H.M. Nurun Nabi, PhD."
+    },
+    {
+      "institution": "University of Dhaka",
+      "area": "Biochemistry and Molecular Biology",
+      "studyType": "B.S.",
+      "endDate": "2023-01-01",
+      "gpa": "3.96/4.00, Rank 1/60"
+    },
+    {
+      "institution": "Dhaka College",
+      "area": "Science",
+      "studyType": "H.S.C.",
+      "endDate": "2018-01-01",
+      "gpa": "5.00/5.00"
+    },
+    {
+      "institution": "Shaheed Ramijuddin High School",
+      "area": "Science",
+      "studyType": "S.S.C.",
+      "endDate": "2016-01-01",
+      "gpa": "5.00/5.00"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Molecular Biology and Biochemistry",
+      "keywords": ["DNA/RNA extraction", "PCR", "qRT-PCR", "gel electrophoresis", "molecular cloning", "protein expression", "SDS-PAGE", "Western blotting"]
+    },
+    {
+      "name": "Cell Culture and Virology",
+      "keywords": ["Mammalian cell culture", "virus culture", "plaque assay", "PNA", "FRNT", "biosimilar potency testing", "antiviral drug screening"]
+    },
+    {
+      "name": "Immunological Techniques",
+      "keywords": ["ELISA", "neutralization assays", "immune response testing"]
+    },
+    {
+      "name": "Bioinformatics",
+      "keywords": ["Immunoinformatics", "protein structure prediction", "molecular docking", "molecular dynamics simulation", "machine learning"]
+    },
+    {
+      "name": "Programming and Data Analysis",
+      "keywords": ["R", "Python", "Bash"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "National Science and Technology (NST) Fellowship",
+      "date": "2024",
+      "awarder": "Government of Bangladesh"
+    },
+    {
+      "title": "Provost Award",
+      "date": "2023",
+      "awarder": "Amar Ekushey Hall, University of Dhaka"
+    },
+    {
+      "title": "Provost Award",
+      "date": "2022",
+      "awarder": "Amar Ekushey Hall, University of Dhaka"
+    },
+    {
+      "title": "Dean's Award",
+      "date": "2022",
+      "awarder": "Faculty of Biological Sciences, University of Dhaka"
+    },
+    {
+      "title": "Dhaka University Honors Scholarship",
+      "date": "2022",
+      "awarder": "University of Dhaka"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A robust comprehensive immunoinformatics approach for designing a potential multi-epitope based vaccine against a reiterated monkeypox virus",
+      "publisher": "Biochemistry and Biophysics Reports",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1016/j.bbrep.2025.102075"
+    },
+    {
+      "name": "Comprehensive in silico characterization of nonsynonymous SNPs in the human ezrin (EZR) gene and their role in disease pathogenesis",
+      "publisher": "Biochemistry and Biophysics Reports",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1016/j.bbrep.2025.101972"
+    },
+    {
+      "name": "Genetic association of vitamin D receptor variants and 25-hydroxyvitamin D levels with breast cancer risk and triple-negative phenotype in Bangladesh",
+      "publisher": "Scientific Reports",
+      "releaseDate": "2026-01-01",
+      "url": "https://doi.org/10.1038/s41598-026-68260-9"
+    }
+  ]
+}
