@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="cv-download-links">
+<div class="cv-download-links" markdown="1">
 [Download CV as PDF]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}
 </div>
 
