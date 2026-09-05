@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="cv-download-links">
+[Download CV as PDF]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}
+</div>
+
+<div class="quick-nav" markdown="1">
+[Education](#education) &nbsp;|&nbsp;
+[Work Experience](#work-experience) &nbsp;|&nbsp;
+[Skills](#skills) &nbsp;|&nbsp;
+[Publications](#publications) &nbsp;|&nbsp;
+[Teaching](#teaching) &nbsp;|&nbsp;
+[Awards](#awards-and-fellowships)
+</div>
+
+---
+
 Education
 ======
 * M.S. in Biochemistry and Molecular Biology, University of Dhaka, 2025 (GPA: 4.00/4.00, Rank: 1/60)
@@ -17,6 +32,8 @@ Education
 * B.S. in Biochemistry and Molecular Biology, University of Dhaka, 2023 (CGPA: 3.96/4.00, Rank: 1/60)
 * H.S.C. in Science, Dhaka College, 2018 (GPA: 5.00/5.00)
 * S.S.C. in Science, Shaheed Ramijuddin High School, 2016 (GPA: 5.00/5.00)
+
+---
 
 Work experience
 ======
@@ -38,6 +55,8 @@ Work experience
 * September 2023 - June 2025: MS Thesis Student
   * Department of Biochemistry and Molecular Biology, University of Dhaka
   * Duties included: Designing an immunoinformatics-based multi-epitope vaccine targeting all dengue virus serotypes; cloning the vaccine construct into an expression vector; expressing and purifying the recombinant protein in E. coli; confirming expression and purity by SDS-PAGE and Western blotting
+
+---
 
 Skills
 ======
@@ -68,22 +87,28 @@ Skills
   * Research presentation and seminar delivery
   * Training and mentoring junior researchers
 
+---
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+---
+
 Awards and Fellowships
 ======
-* National Science and Technology (NST) Fellowship - 2024
-* Provost Award - 2023, Amar Ekushey Hall, University of Dhaka
-* Provost Award - 2022, Amar Ekushey Hall, University of Dhaka
-* Dean's Award - 2022, Faculty of Biological Sciences, University of Dhaka
-* Dhaka University Honors Scholarship - 2022
+🏅 **National Science and Technology (NST) Fellowship** - 2024<br>
+🏅 **Provost Award** - 2023, Amar Ekushey Hall, University of Dhaka<br>
+🏅 **Provost Award** - 2022, Amar Ekushey Hall, University of Dhaka<br>
+🏅 **Dean's Award** - 2022, Faculty of Biological Sciences, University of Dhaka<br>
+🏅 **Dhaka University Honors Scholarship** - 2022<br>
