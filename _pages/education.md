@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-This page details the coursework completed as part of my B.S. (Honors) in Biochemistry and Molecular Biology at the University of Dhaka (2018-2019 session, 128 credits). My M.S. coursework will be added here shortly.
+This page details the coursework completed as part of my B.S. (Honors) and M.S. in Biochemistry and Molecular Biology at the University of Dhaka.
 
 ---
 
@@ -86,14 +86,6 @@ Molecular Biology & Bioinformatics
 * Advanced Molecular Biology
 * Advanced Bioinformatics
 
-Drug Design & Pharmacogenomics
-------
-* Drug Designing and Pharmacogenomics
-
-Immunology & Diagnostics
-------
-* Clinical Immunology and Immunodiagnostics
-
 Environmental & Natural Products Biochemistry
 ------
 * Environmental Biochemistry
@@ -109,6 +101,6 @@ Biotechnology Management
 
 Thesis & Research Training
 ------
-* Thesis (Group B) — "Harnessing E. coli for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus," supervised by Professor A.H.M. Nurun Nabi
+* Thesis (Group B) — "Harnessing _E. coli_ for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus," supervised by Professor A.H.M. Nurun Nabi
 * Seminar / Paper Presentation
 * Viva-voce
