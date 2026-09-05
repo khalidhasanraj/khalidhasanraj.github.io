@@ -11,5 +11,3 @@ citation: 'Mowla, A., Mahmud, Z., Raj, K. H., Tamanna, S., Zeba, Z., Ansari, F.,
 ---
 
 This study investigates the association between vitamin D receptor (VDR) gene variants and circulating 25-hydroxyvitamin D levels with breast cancer risk, including the triple-negative subtype, in a Bangladeshi population, combining genetic association analysis with clinical and biochemical data.
-
-[Read the full paper here](https://doi.org/10.1038/s41598-026-68260-9)
