@@ -27,7 +27,7 @@ redirect_from:
 Education
 ======
 * **M.S. in Biochemistry and Molecular Biology**, University of Dhaka, 2025 (GPA: 4.00/4.00, Rank: 1/60)
-  * **Thesis:** "Harnessing E. coli for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus"
+  * **Thesis:** "Harnessing _E. coli_ for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus"
   * **Supervisor:** Professor A.H.M. Nurun Nabi, PhD
 * **B.S. in Biochemistry and Molecular Biology**, University of Dhaka, 2023 (CGPA: 3.96/4.00, Rank: 1/60)
 
@@ -36,50 +36,50 @@ Education
 Work experience
 ======
 * May 2026 - Present: **Lecturer**
-  * Department of Biochemistry and Molecular Biology, University of Dhaka
+  * _Department of Biochemistry and Molecular Biology, University of Dhaka_
 
 * May 2026 - Present: **Researcher**
-  * Department of Biochemistry and Molecular Biology, University of Dhaka
+  * _Department of Biochemistry and Molecular Biology, University of Dhaka_
   * Responsibilities: Multi-omics bioinformatics projects developing risk models for stomach and bladder cancer; genetic association studies of non-communicable diseases; developing research proposals and grant applications
 
 * October 2025 - May 2026: **Research Fellow**
-  * International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)
+  * _International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)_
   * Responsibilities: Mammalian cell and virus culture under biosafety-compliant conditions; immunological and virological assays; biosimilar potency testing; clinical trial support for viral vaccines; antiviral drug discovery
 
 * June 2025 - September 2025: **Senior Research Assistant**
-  * International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)
+  * _International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)_
   * Responsibilities: Maintaining mammalian cell lines; assisting in virus culture experiments; supporting laboratory operations and experimental optimization; training junior researchers and interns
 
 * September 2023 - June 2025: **MS Thesis Student**
-  * Department of Biochemistry and Molecular Biology, University of Dhaka
+  * _Department of Biochemistry and Molecular Biology, University of Dhaka_
   * Responsibilities: Designing an immunoinformatics-based multi-epitope vaccine targeting all dengue virus serotypes; cloning the vaccine construct into an expression vector; expressing and purifying the recombinant protein in E. coli; confirming expression and purity by SDS-PAGE and Western blotting
 
 ---
 
 Skills
 ======
-* Molecular Biology and Biochemistry
+* **Molecular Biology and Biochemistry**
   * DNA and RNA extraction, PCR, qRT-PCR, gel electrophoresis
   * Molecular cloning and plasmid handling
   * Heterologous protein expression
   * SDS-PAGE and Western blotting
-* Cell Culture and Virology
+* **Cell Culture and Virology**
   * Mammalian cell culture, virus culture
   * Plaque assay, pseudovirus neutralization assay (PNA), focus reduction neutralization test (FRNT)
   * Biosimilar potency testing, antiviral drug screening
-* Immunological Techniques
+* **Immunological Techniques**
   * Enzyme-linked immunosorbent assay (ELISA)
   * Neutralization assays, immune response testing
-* Bioinformatics
+* **Bioinformatics**
   * Genomics and transcriptomics data analysis
   * Immunoinformatics-based data analysis
   * Protein structure prediction and mutation analysis, molecular docking, molecular dynamics simulation
   * Machine learning model development
-* Programming and Data Analysis
+* **Programming and Data Analysis**
   * R (biostatistics, visualization, transcriptomics analysis)
   * Python (data processing, machine learning implementation)
   * Bash (Linux-based data handling and pipeline execution)
-* Research and Academic Skills
+* **Research and Academic Skills**
   * Experimental design and optimization, data interpretation and statistical analysis
   * Scientific writing (manuscripts, theses, proposals)
   * Research presentation and seminar delivery
