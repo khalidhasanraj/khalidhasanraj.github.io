@@ -26,35 +26,33 @@ redirect_from:
 
 Education
 ======
-* M.S. in Biochemistry and Molecular Biology, University of Dhaka, 2025 (GPA: 4.00/4.00, Rank: 1/60)
-  * Thesis: "Harnessing E. coli for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus"
-  * Supervisor: Professor A.H.M. Nurun Nabi, PhD
-* B.S. in Biochemistry and Molecular Biology, University of Dhaka, 2023 (CGPA: 3.96/4.00, Rank: 1/60)
-* H.S.C. in Science, Dhaka College, 2018 (GPA: 5.00/5.00)
-* S.S.C. in Science, Shaheed Ramijuddin High School, 2016 (GPA: 5.00/5.00)
+* **M.S. in Biochemistry and Molecular Biology**, University of Dhaka, 2025 (GPA: 4.00/4.00, Rank: 1/60)
+  * **Thesis:** "Harnessing E. coli for cost effective production and purification of a novel pan-serotype multi-epitope vaccine against dengue virus"
+  * **Supervisor:** Professor A.H.M. Nurun Nabi, PhD
+* **B.S. in Biochemistry and Molecular Biology**, University of Dhaka, 2023 (CGPA: 3.96/4.00, Rank: 1/60)
 
 ---
 
 Work experience
 ======
-* May 2026 - Present: Lecturer
+* May 2026 - Present: **Lecturer**
   * Department of Biochemistry and Molecular Biology, University of Dhaka
 
-* May 2026 - Present: Researcher
+* May 2026 - Present: **Researcher**
   * Department of Biochemistry and Molecular Biology, University of Dhaka
-  * Duties included: Multi-omics bioinformatics projects developing risk models for stomach and bladder cancer; genetic association studies of non-communicable diseases; developing research proposals and grant applications
+  * Responsibilities: Multi-omics bioinformatics projects developing risk models for stomach and bladder cancer; genetic association studies of non-communicable diseases; developing research proposals and grant applications
 
-* October 2025 - May 2026: Research Fellow
+* October 2025 - May 2026: **Research Fellow**
   * International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)
-  * Duties included: Mammalian cell and virus culture under biosafety-compliant conditions; immunological and virological assays; biosimilar potency testing; clinical trial support for viral vaccines; antiviral drug discovery
+  * Responsibilities: Mammalian cell and virus culture under biosafety-compliant conditions; immunological and virological assays; biosimilar potency testing; clinical trial support for viral vaccines; antiviral drug discovery
 
-* June 2025 - September 2025: Senior Research Assistant
+* June 2025 - September 2025: **Senior Research Assistant**
   * International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)
-  * Duties included: Maintaining mammalian cell lines; assisting in virus culture experiments; supporting laboratory operations and experimental optimization; training junior researchers and interns
+  * Responsibilities: Maintaining mammalian cell lines; assisting in virus culture experiments; supporting laboratory operations and experimental optimization; training junior researchers and interns
 
-* September 2023 - June 2025: MS Thesis Student
+* September 2023 - June 2025: **MS Thesis Student**
   * Department of Biochemistry and Molecular Biology, University of Dhaka
-  * Duties included: Designing an immunoinformatics-based multi-epitope vaccine targeting all dengue virus serotypes; cloning the vaccine construct into an expression vector; expressing and purifying the recombinant protein in E. coli; confirming expression and purity by SDS-PAGE and Western blotting
+  * Responsibilities: Designing an immunoinformatics-based multi-epitope vaccine targeting all dengue virus serotypes; cloning the vaccine construct into an expression vector; expressing and purifying the recombinant protein in E. coli; confirming expression and purity by SDS-PAGE and Western blotting
 
 ---
 
