@@ -3,8 +3,8 @@ permalink: /
 title: "Khalid Hasan Raj"
 author_profile: true
 header:
-  image: # TODO: add a wide, low-height banner image to /images/ and reference it here, e.g. "/images/banner.jpg"
-  image_description: "Lab and research banner"
+  image: "/images/dna_banner.png"
+  image_description: "DNA banner"
 redirect_from: 
   - /about/
   - /about.html
