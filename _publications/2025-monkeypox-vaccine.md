@@ -11,5 +11,3 @@ citation: 'Raj, K. H., Hossain, E., Zahin, H., Noman, A. A., Saba, A. A., Sayem,
 ---
 
 This study presents a comprehensive immunoinformatics pipeline for designing a multi-epitope vaccine candidate against monkeypox virus, integrating epitope prediction, antigenicity and allergenicity screening, protein structure modeling, and molecular docking to identify a stable, immunogenic vaccine construct.
-
-[Read the full paper here](https://doi.org/10.1016/j.bbrep.2025.102075)
