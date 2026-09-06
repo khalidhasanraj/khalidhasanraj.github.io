@@ -13,7 +13,7 @@ This page details the coursework completed as part of my B.S. (Honors) and M.S. 
 
 B.S. (Honors) in Biochemistry and Molecular Biology
 ======
-**University of Dhaka** | 2018-2019 Session | 128 Credits
+**University of Dhaka** | 2018-2019 Session | 128 Credits<br>
 **Result**: CGPA 3.96/4.00 | **Rank**: 1/60
 
 Core Biochemistry & Metabolism
@@ -80,7 +80,7 @@ Laboratory Training & Research Skills
 
 M.S. in Biochemistry and Molecular Biology
 ======
-**University of Dhaka** | 2022-2023 Session | 30 Credits
+**University of Dhaka** | 2022-2023 Session | 30 Credits<br>
 **Result**: GPA 4.00/4.00 | **Rank**: 1/60
 
 Molecular Biology & Bioinformatics
