@@ -136,8 +136,3 @@ References
 - **Mohammad Mamun Alam, PhD**
   * Assistant Scientist, Infectious Disease Division, International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)
   * Email: mamun.alam@icddrb.org | Mobile: +8801713288083
-
-
-- **Mohammad Mamun Alam, PhD**
-  * Assistant Scientist, Infectious Disease Division, International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)
-  * Email: mamun.alam@icddrb.org | Mobile: +8801713288083
