@@ -10,9 +10,11 @@ location: "Dhaka, Bangladesh"
 
 Since joining the Department of Biochemistry and Molecular Biology at the University of Dhaka as a Lecturer in May 2026, I have been involved in the following teaching and academic activities:
 
-* Conducting undergraduate and graduate courses in Biochemistry, Bioinformatics, Molecular Biology, and Nutrition
-* Designing and delivering lecture materials, tutorials, and laboratory sessions
-* Preparing examination questions and evaluating answer scripts
-* Supervising and mentoring undergraduate students in laboratory-based and computational research projects
-* Advising students on coursework, thesis work, and academic progress
-* Invigilating examinations and participating in departmental academic and curriculum committees
+<ul>
+  <li>Conducting undergraduate and graduate courses in Biochemistry, Bioinformatics, Molecular Biology, and Nutrition</li>
+  <li>Designing and delivering lecture materials, tutorials, and laboratory sessions</li>
+  <li>Preparing examination questions and evaluating answer scripts</li>
+  <li>Supervising and mentoring undergraduate students in laboratory-based and computational research projects</li>
+  <li>Advising students on coursework, thesis work, and academic progress</li>
+  <li>Invigilating examinations and participating in departmental academic and curriculum committees</li>
+</ul>
